@@ -1,1 +1,1 @@
- python -m PyInstaller login.py
+python -m PyInstaller login.py
